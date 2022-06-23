@@ -11,7 +11,7 @@ I am currently working on a multitude of different projects. Many of these ongoi
 
 ## Languages
 - 🇳🇱 Dutch (Mother tongue)
-- 🇬🇧 English (Bi lingual, second mother tongue)
+- 🇬🇧 English (Bilingual, second mother tongue)
 - 🇩🇪 German (Basic level)
 
 ## Programming Languages
