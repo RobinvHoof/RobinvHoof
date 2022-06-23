@@ -22,6 +22,7 @@ I am currently working on a multitude of different projects. Many of these ongoi
 - C# (.NET, 🎮 Unity)
 - C++ (Pure C++, ArduinoC)
 - C (Pure C, Embedded development)
+
 [And many more](https://robinvanhoof.tech/proficiencies)
 
 <br><br>
