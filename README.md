@@ -6,9 +6,10 @@ I am currenlty following an education as fullstack software developer at Fontys 
 
 ## Projects
 I am currently working on a multitude of different projects. Many of these ongoing projects can be found on my [portfolio page](https://robinvanhoof.tech), but here is a small sneak peak of some of my projects:
-- 🎮 Black Sails at Midnight, an innovative hybrid Tower Defence & First Person Shooter game
+- 🎮 Black Sails at Midnight, an innovative hybrid Tower Defence & First Person Shooter game;
 - 🚥 LEDSync, a reactive and submersive LED lighting sollution;
 - 👤 Personal portfolio webpage;
+
 [And many more](https://robinvanhoof.tech/projects)
 
 ## Languages
