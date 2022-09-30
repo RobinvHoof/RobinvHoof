@@ -1,13 +1,15 @@
 # Hi there! My name is Robin van Hoof 👋
-Im a junior full stack developer, specialising in C# and JavaScript. Want to have a look at my portfolio? You can find it [here](https://robinvanhoof.tech)!
+Im a junior full stack developer, specialising in C#, JavaScript and Gamedevelopment. Want to have a look at my portfolio? You can find it [here](https://robinvanhoof.tech)!
 
 ## Education
 I am currenlty following an education as fullstack software developer at Fontys University of Applied Sciences in Eindhoven, the IT capitol of the Netherlands! I am currently in the last part of my second year of the study, and have done one and a half year of embedded software development before switching to the fullstack software development stream. 
 
 ## Projects
 I am currently working on a multitude of different projects. Many of these ongoing projects can be found on my [portfolio page](https://robinvanhoof.tech), but here is a small sneak peak of some of my projects:
+- 🎮 Black Sails at Midnight, an innovative hybrid Tower Defence & First Person Shooter game
 - 🚥 LEDSync, a reactive and submersive LED lighting sollution;
 - 👤 Personal portfolio webpage;
+[And many more](https://robinvanhoof.tech/projects)
 
 ## Languages
 - 🇳🇱 Dutch (Mother tongue)
